@@ -576,15 +576,11 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
-         "tiles":[
+         "properties":[
                 {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0BY unbekannt"
-                        }]
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY unbekannt"
                 }],
          "tilewidth":32
         }, 
