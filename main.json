@@ -330,7 +330,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby.json"
+                 "value":"world:\/\/lobby\/rest-of-2020.json#start_silpion"
                 }],
          "type":"tilelayer",
          "visible":true,
