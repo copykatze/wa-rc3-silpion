@@ -368,7 +368,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":""
+                 "value":"Press SPACE or touch here to join this rooms jitsi conference"
                 }],
          "type":"tilelayer",
          "visible":true,
