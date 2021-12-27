@@ -670,7 +670,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"phonebox"
+                 "value":"abchillgleissharedglobalphonebooth"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -680,7 +680,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to dial into the void"
+                 "value":"Press SPACE or touch here to dial into the abchillgleissharedglobalphonebooth"
                 }],
          "type":"tilelayer",
          "visible":true,
