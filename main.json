@@ -470,18 +470,7 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":206.324287956941,
-                 "id":1,
-                 "name":"toiletPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":139.044628840547,
-                 "x":1396.05292666517,
-                 "y":84.0995738954923
-                }],
+         "objects":[],
          "offsetx":0.560663825969868,
          "offsety":2.24265530387979,
          "opacity":1,
