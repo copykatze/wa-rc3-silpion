@@ -680,7 +680,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to dial into the shared globalphonebooth"
+                 "value":"Press SPACE or touch here to dial into the shared-GlobalPhonebooth"
                 }],
          "type":"tilelayer",
          "visible":true,
