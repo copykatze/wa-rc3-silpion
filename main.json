@@ -670,7 +670,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared global Phonebooth"
+                 "value":"shared-GlobalPhonebooth"
                 }, 
                 {
                  "name":"jitsiTrigger",
