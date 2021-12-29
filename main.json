@@ -460,9 +460,9 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"website",
+                         "name":"url",
                          "type":"string",
-                         "value":"<iframe src=\"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native\" width=\"1024\" height=\"576\" frameborder=\"none\" allowfullscreen=\"allowfullscreen\" seamless=\"seamless\" scrolling=\"no\"><\/iframe>"
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"",
@@ -489,12 +489,6 @@
                  "y":354
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
