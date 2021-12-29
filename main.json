@@ -441,6 +441,12 @@
                  "height":58,
                  "id":9,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
+                        }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
@@ -449,12 +455,6 @@
                  "y":356
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -541,34 +541,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":70,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":62,
-         "name":"blackfloorBeamer",
-         "objects":[
-                {
-                 "height":54,
-                 "id":10,
-                 "name":"",
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":88,
-                 "x":2018,
-                 "y":678
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
-                }],
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -868,7 +840,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":11,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
