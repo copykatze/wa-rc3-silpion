@@ -470,8 +470,31 @@
                  "width":92,
                  "x":130,
                  "y":356
+                }, 
+                {
+                 "height":60,
+                 "id":8,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":128,
+                 "y":354
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -587,12 +610,6 @@
                  "height":60,
                  "id":7,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"website",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -601,6 +618,12 @@
                  "y":674
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -902,7 +925,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
