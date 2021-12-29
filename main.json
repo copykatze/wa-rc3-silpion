@@ -434,61 +434,27 @@
         }, 
         {
          "draworder":"topdown",
-         "id":59,
+         "id":61,
          "name":"konfiBeamer",
          "objects":[
                 {
-                 "height":60,
-                 "id":3,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"<iframe src=\"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native\" width=\"1024\" height=\"576\" frameborder=\"none\" allowfullscreen=\"allowfullscreen\" seamless=\"seamless\" scrolling=\"no\"><\/iframe>"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":94,
-                 "x":130,
-                 "y":354
-                }, 
-                {
                  "height":58,
-                 "id":6,
+                 "id":9,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
-                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":92,
                  "x":130,
                  "y":356
-                }, 
-                {
-                 "height":60,
-                 "id":8,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":96,
-                 "x":128,
-                 "y":354
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"url",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -575,51 +541,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":70,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":60,
-         "name":"blackfloorBeamer",
-         "objects":[
-                {
-                 "height":58,
-                 "id":4,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"website",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":86,
-                 "x":2018,
-                 "y":672
-                }, 
-                {
-                 "height":60,
-                 "id":7,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":88,
-                 "x":2016,
-                 "y":674
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
-                }],
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -918,8 +839,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":61,
- "nextobjectid":9,
+ "nextlayerid":62,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
