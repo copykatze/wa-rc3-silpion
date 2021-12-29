@@ -435,7 +435,7 @@
         {
          "draworder":"topdown",
          "id":61,
-         "name":"konfiBeamer",
+         "name":"loungeStream",
          "objects":[
                 {
                  "height":58,
@@ -480,7 +480,17 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE or touch here to join this rooms jitsi conference"
+                 "value":"Press SPACE or touch here to join this rooms jitsi conference and open the chaos studio hamburg stream"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
