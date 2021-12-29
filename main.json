@@ -453,6 +453,23 @@
                  "width":94,
                  "x":130,
                  "y":354
+                }, 
+                {
+                 "height":58,
+                 "id":6,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"website",
+                         "type":"string",
+                         "value":"<iframe src=\"https:\/\/streaming.media.ccc.de\/rc3\/embed\/csh\/hls\/native\" width=\"1024\" height=\"576\" frameborder=\"none\" allowfullscreen=\"allowfullscreen\" seamless=\"seamless\" scrolling=\"no\"><\/iframe>"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":92,
+                 "x":130,
+                 "y":356
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -555,7 +572,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"website",
                          "type":"string",
                          "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
                         }],
@@ -565,6 +582,23 @@
                  "width":86,
                  "x":2018,
                  "y":672
+                }, 
+                {
+                 "height":60,
+                 "id":7,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"website",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/cbase\/hls\/native"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":88,
+                 "x":2016,
+                 "y":674
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -868,7 +902,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":5,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
